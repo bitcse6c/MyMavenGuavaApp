@@ -14,7 +14,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/sonalsrivastava26/MyMavenGuavaApp.git'
+                git url: 'https://github.com/bitcse6c/MyMavenGuavaApp.git'
 
             }
         }
